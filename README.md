@@ -1,4 +1,8 @@
-# Introduction to Retrieval Augmented Generation
+# My Disclaimer
+I copied everything from the lecturer Alfredo Deza's repo here, as he had suggested to do so, just for practicing the RAG techniques. I will modify his code and practice RAG using my own dataset.
+
+# The Following are all copy-pasted from the leturer's work from this link https://github.com/alfredodeza/learn-retrieval-augmented-generation/blob/main/examples/3-applied-rag/embeddings.ipynb #
+## Introduction to Retrieval Augmented Generation
 
 This repository will introduce you to Retrieval Augmented Generation (RAG) with
 easy to use examples that you can build upon. The examples use Python with
